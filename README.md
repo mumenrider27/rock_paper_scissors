@@ -1,2 +1,2 @@
 # rock_paper_scissors
-a simple replicate of well known rock papaer scissors game
+a simple replicate of well known rock paper scissors game
